@@ -1,0 +1,14 @@
+{
+  "name": "net_ninja-graphql",
+  "version": "1.0.0",
+  "description": "Practice app for learning GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan B.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
